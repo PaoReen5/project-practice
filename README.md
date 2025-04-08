@@ -29,7 +29,7 @@ NextGen Hardware is an advanced online marketplace designed to provide high-qual
 
 <div align="center">
 
-## Members
+## 👤Members
 </div>
 
 - **Project Manager** - Yasmien Mae M. Llona
