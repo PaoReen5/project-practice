@@ -5,7 +5,9 @@
 
     <br> <img src="![487077262_1948797592592548_8244990276948912871_n](https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0)" alt="Project Logo" width="200">  </div>
 
-<div style="background-color: #e0e0e0; padding: 10px;"> ## About the Project: NextGen Hardware
+<div style="background-color: #e0e0e0; padding: 10px;">
+    
+## About the Project: NextGen Hardware
 
     NextGen Hardware is an advanced online marketplace designed to provide high-quality computer hardware components for gamers, professionals, and tech enthusiasts. With the rapid evolution of technology, customers require a seamless shopping experience that offers easy access to the latest computer components.
 </div>
