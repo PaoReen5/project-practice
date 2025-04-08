@@ -9,8 +9,8 @@
   <div align="center">
 
 ## About the Project
-  </div>
-  NextGen Hardware is an advanced online marketplace designed to provide high-quality computer hardware components for gamers, professionals, and tech enthusiasts. With the rapid evolution of technology, customers require a seamless shopping experience that offers easy access to the latest computer components.
+</div>
+NextGen Hardware is an advanced online marketplace designed to provide high-quality computer hardware components for gamers, professionals, and tech enthusiasts. With the rapid evolution of technology, customers require a seamless shopping experience that offers easy access to the latest computer components.
 </div>
 
 <div align="center">
