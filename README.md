@@ -1,8 +1,8 @@
 <div align="center">
-### Final Project
+# Final Project
 [Y.O.Y.O]
-##YOYO- Yes to Online, Your One-Step Tech
-Online Destination for Cutting-Edge Computers & Tech.
+<p style="font-size: 1.2em;">YOYO - Yes to Online, Your One-Step Tech 
+Online Destination for Cutting-Edge Computers & Tech.>/p>
 </div>
 
 About the Project:
