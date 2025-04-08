@@ -1,4 +1,6 @@
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">
+
+  ### Final Project
   <h1 style="font-size: 2.5em;">NextGen Hardware</h1>
   <br>
 <img src="https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0" alt="Project Logo" width="300">
