@@ -1,22 +1,21 @@
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">
 
 ## Final Project
-  <br> <img src="https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0" alt="Project Logo" width="300">
-  
 # NextGen Hardware
+  <br> <img src="https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0" alt="Project Logo" width="300">
 </div>
 
 <div style="background-color: #e0e0e0; padding: 10px;">
   <div align="center">
 
-# About the Project
+## About the Project
   </div>
   NextGen Hardware is an advanced online marketplace designed to provide high-quality computer hardware components for gamers, professionals, and tech enthusiasts. With the rapid evolution of technology, customers require a seamless shopping experience that offers easy access to the latest computer components.
 </div>
 
 <div align="center">
 
-# Features
+## Features
 </div>
 
 * User-Friendly Interface 
@@ -29,7 +28,7 @@
 
 <div align="center">
 
-# Members
+## Members
 </div>
 
 * Project Manager - Yasmien Mae M. Llona
@@ -41,13 +40,13 @@
 
 <div align="center">
 
-# Class Section
+## Class Section
 </div>
 BSIT 2A
 
 <div align="center">
 
-# Updates
+## Updates
 </div>
 Updates:
 
