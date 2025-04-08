@@ -2,7 +2,7 @@
 
 ## Final Project
 
-<p style="font-size: 20px"> NextGen Hardware </p>
+<p style="font-size: 200px"> NextGen Hardware </p>
   <br> <img src="https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0" alt="Project Logo" width="300">
 </div>
 
