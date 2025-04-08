@@ -48,7 +48,7 @@ NextGen Hardware is an advanced online marketplace designed to provide high-qual
   ## 📚 Class Section
 </div>
 
-**BSIT 2A**
+**BSIT - 2A**
 
 ---
 
