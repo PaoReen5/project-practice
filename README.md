@@ -1,38 +1,48 @@
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">
 
 # Final Project
-    NextGen Hardware
+  NextGen Hardware
 
-    <br> <img src="![487077262_1948797592592548_8244990276948912871_n](https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0)" alt="Project Logo" width="200">  </div>
-
-<div style="background-color: #e0e0e0; padding: 10px;">
-    
-## About the Project: NextGen Hardware
-
-    NextGen Hardware is an advanced online marketplace designed to provide high-quality computer hardware components for gamers, professionals, and tech enthusiasts. With the rapid evolution of technology, customers require a seamless shopping experience that offers easy access to the latest computer components.
+  <br> <img src="https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0" alt="Project Logo" width="200">
 </div>
 
-## Features
+<div style="background-color: #e0e0e0; padding: 10px;">
+  <div align="center">
 
--   User-Friendly Interface - A clean, intuitive design for easy navigation and product selection. Secure Transactions - Encrypted payment gateways to ensure data security.
--   Personalized Recommendations - AI-driven suggestions based on browsing history and preferences. Real-Time Order Tracking - Enables users to monitor their purchases from confirmation to delivery.
--   Product Reviews & Ratings - Customers can leave feedback to help others make informed decisions.
+## About the Project: NextGen Hardware
+  </div>
+  NextGen Hardware is an advanced online marketplace designed to provide high-quality computer hardware components for gamers, professionals, and tech enthusiasts. With the rapid evolution of technology, customers require a seamless shopping experience that offers easy access to the latest computer components.
+</div>
+
+<div align="center">
+
+## Features
+</div>
+- User-Friendly Interface - A clean, intuitive design for easy navigation and product selection. Secure Transactions - Encrypted payment gateways to ensure data security.
+- Personalized Recommendations - AI-driven suggestions based on browsing history and preferences. Real-Time Order Tracking - Enables users to monitor their purchases from confirmation to delivery.
+- Product Reviews & Ratings - Customers can leave feedback to help others make informed decisions.
+
+<div align="center">
 
 ## Members
+</div>
+- Project Manager - Yasmien Mae M. Llona
+- Front-end Developer - Maryan D. Lusantas
+- Back-end Developer - Catlyn L. Ruiz
+- Database Manager - Yasmin M. Fermin
+- GitHub Manager - Niña Jezreen Bron
+- Tester/Debugger/Documentation Officer - John Mark C. Idanan
 
--   Project Manager - Yasmien Mae M. Llona
--   Front-end Developer - Maryan D. Lusantas
--   Back-end Developer - Catlyn L. Ruiz
--   Database Manager - Yasmin M. Fermin
--   GitHub Manager - Niña Jezreen Bron
--   Tester/Debugger/Documentation Officer - John Mark C. Idanan
+<div align="center">
 
 ## Class Section
-
+</div>
 BSIT 2A
 
-## Updates
+<div align="center">
 
+## Updates
+</div>
 Updates:
 
 - Phase 1 (Week 11): [██████████] 100% Complete
