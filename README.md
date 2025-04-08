@@ -32,12 +32,12 @@ NextGen Hardware is an advanced online marketplace designed to provide high-qual
 ## Members
 </div>
 
-* Project Manager - Yasmien Mae M. Llona
-* Front-end Developer - Maryan D. Lusantas
-* Back-end Developer - Catlyn L. Ruiz
-* Database Manager - Yasmin M. Fermin
-* GitHub Manager - Niña Jezreen Bron
-* Tester/Debugger/Documentation Officer - John Mark C. Idanan
+- ** Project Manager ** - Yasmien Mae M. Llona
+- ** Front-end Developer ** - Maryan D. Lusantas
+- ** Back-end Developer ** - Catlyn L. Ruiz
+- ** Database Manager ** - Yasmin M. Fermin
+- ** GitHub Manager ** - Niña Jezreen Bron
+- ** Tester/Debugger/Documentation Officer ** - John Mark C. Idanan
 
 <div align="center">
 
