@@ -1,7 +1,7 @@
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">
   <h1 style="font-size: 2.5em;">NextGen Hardware</h1>
   <br>
-  <img src="[https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0](https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0)" alt="Project Logo" width="300">
+<img src="https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0" alt="Project Logo" width="300">
 </div>
 
 ---
@@ -59,9 +59,9 @@ NextGen Hardware is an advanced online marketplace designed to provide high-qual
 
 **Updates:**
 
-- Phase 1 (Week 11): ![Progress 100%](https://img.shields.io/badge/Progress-100%25-brightgreen)
-- Phase 2 (Week 12): ![Progress 0%](https://www.google.com/search?q=https://img.shields.io/badge/Progress-0%2525-red)
-- Phase 3 (Week 13): ![Progress 0%](https://www.google.com/search?q=https://img.shields.io/badge/Progress-0%2525-red)
-- Phase 4 (Week 14): ![Progress 0%](https://www.google.com/search?q=https://img.shields.io/badge/Progress-0%2525-red)
-- Phase 5 (Week 15): ![Progress 0%](https://www.google.com/search?q=https://img.shields.io/badge/Progress-0%2525-red)
-- Phase 6 (Week 16): ![Progress 0%](https://www.google.com/search?q=https://img.shields.io/badge/Progress-0%2525-red)
+- Phase 1 (Week 11): [██████████] **100% Complete**
+- Phase 2 (Week 12): [░░░░░░░░░░] **0% Complete**
+- Phase 3 (Week 13): [░░░░░░░░░░] **0% Complete**
+- Phase 4 (Week 14): [░░░░░░░░░░] **0% Complete**
+- Phase 5 (Week 15): [░░░░░░░░░░] **0% Complete**
+- Phase 6 (Week 16): [░░░░░░░░░░] **0% Complete**
