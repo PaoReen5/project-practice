@@ -1,8 +1,9 @@
-# Final Project Y.O.Y.O
-
-YOYO- Yes to Online, Your One-Step Tech
-
+<div align="center">
+### Final Project
+[Y.O.Y.O]
+##YOYO- Yes to Online, Your One-Step Tech
 Online Destination for Cutting-Edge Computers & Tech.
+</div>
 
 About the Project:
 NextGen Hardware is an advanced online marketplace designed to provide high-quality computer hardware components for gamers, professionals, and tech enthusiasts. With the rapid evolution of technology, customers require a seamless shopping experience that offers easy access to the latest computer components.
