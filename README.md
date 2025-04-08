@@ -29,7 +29,7 @@ NextGen Hardware is an advanced online marketplace designed to provide high-qual
 
 <div align="center">
 
-## 👤Members
+## ![Project Icon](images/![members](https://github.com/user-attachments/assets/dcd9cc4e-3e63-49dd-a452-3576d980a0da))Members
 </div>
 
 - **Project Manager** - Yasmien Mae M. Llona
