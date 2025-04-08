@@ -6,8 +6,6 @@
 <h1 style="font-size: 2.5em;">NextGen Hardware</h1>
 </div>
 
----
-
 <div style="background-color: #e0e0e0; padding: 10px;">
   <div align="center">
 
