@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #f0f0f0; padding: 20px;">
+<div align="center" style="background-color: #f0f0f0; border: none; padding: 20px;">
   
 ### Final Project
   
