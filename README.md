@@ -1,7 +1,7 @@
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">  # Final Project
     NextGen Hardware
 
-    <br> <img src="images/![487077262_1948797592592548_8244990276948912871_n](https://github.com/user-attachments/assets/c81b4ba4-aefd-459f-90ce-5f9d554298bd)" alt="Project Logo" width="200">  </div>
+    <br> <img src="![487077262_1948797592592548_8244990276948912871_n](https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0) " alt="Project Logo" width="200">  </div>
 
 <div style="background-color: #e0e0e0; padding: 10px;"> ## About the Project: NextGen Hardware
 
