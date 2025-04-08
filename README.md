@@ -1,4 +1,6 @@
-<div align="center" style="background-color: #f0f0f0; padding: 20px;">  # Final Project
+<div align="center" style="background-color: #f0f0f0; padding: 20px;">
+
+# Final Project
     NextGen Hardware
 
     <br> <img src="![487077262_1948797592592548_8244990276948912871_n](https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0)" alt="Project Logo" width="200">  </div>
