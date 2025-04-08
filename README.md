@@ -1,7 +1,10 @@
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">
 
 ## Final Project
-# NextGen Hardware
+
+<p style="font-size: 0.9em"> 
+
+**NextGen Hardware** </p>
   <br> <img src="https://github.com/user-attachments/assets/4d7a2996-5e84-45d7-9f25-f215d4a897b0" alt="Project Logo" width="300">
 </div>
 
