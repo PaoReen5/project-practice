@@ -1,5 +1,4 @@
-Final Project 
-(Y.O.Y.O)
+# Final Project Y.O.Y.O
 
 YOYO- Yes to Online, Your One-Step Tech
 
