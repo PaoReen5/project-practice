@@ -18,6 +18,7 @@
 
 ## Features
 </div>
+
 * User-Friendly Interface 
 * A clean, intuitive design for easy navigation and product selection. Secure Transactions 
 * Encrypted payment gateways to ensure data security.
@@ -30,6 +31,7 @@
 
 ## Members
 </div>
+
 * Project Manager - Yasmien Mae M. Llona
 * Front-end Developer - Maryan D. Lusantas
 * Back-end Developer - Catlyn L. Ruiz
