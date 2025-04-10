@@ -66,4 +66,4 @@ NextGen Hardware is an advanced online marketplace designed to provide high-qual
 - Phase 5 (Week 15): [░░░░░░░░░░] **0% Complete**
 - Phase 6 (Week 16): [░░░░░░░░░░] **0% Complete**
 
-  https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white
+https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white
