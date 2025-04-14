@@ -1,6 +1,6 @@
 <div align="center">
 
-# Week 11 Frontend Development
+# Week 11: Frontend Development
 </div>
 
 In Week 11, we focused on building the frontend structure of our e-commerce website NextGen Hardware. This marked the transition from planning and design to actual implementation. We started designing the user interface by creating several key pages.
