@@ -5,8 +5,9 @@
 
 In Week 11, we focused on building the frontend structure of our e-commerce website NextGen Hardware. This marked the transition from planning and design to actual implementation. We started designing the user interface by creating several key pages.
 
+---
+
 ## Frontend Pages Created and Their Functionalities
-</div>
 
 ### Authentication Page
 
@@ -49,6 +50,8 @@ This page enables users to track their purchases by entering their Order Number 
 ### Logout Page
 
 This allows users to securely end their session and return to the home or login page.
+
+---
 
 ## Alignment with Use Case Diagram and ERD
 </div>
