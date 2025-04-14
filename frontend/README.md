@@ -3,7 +3,7 @@
 # Week 11 Frontend Development
 </div>
 
-<p style="text-indent: 500em;">In Week 11, we focused on building the frontend structure of our e-commerce website NextGen Hardware. This marked the transition from planning and design to actual implementation. We started designing the user interface by creating several key pages.</p>
+In Week 11, we focused on building the frontend structure of our e-commerce website NextGen Hardware. This marked the transition from planning and design to actual implementation. We started designing the user interface by creating several key pages.
 
 ---
 
@@ -24,24 +24,24 @@ This page introduces the shop, highlights our specializations, and presents what
 ### Products Page
 
 The Products Page lists all available products. Users can:
-
-    *Add products to their cart
-    *Buy now directly from the product list
-    *Leave reviews by giving star ratings and writing comments about the products
+    
+* Add products to their cart
+* Buy now directly from the product list
+* Leave reviews by giving star ratings and writing comments about the products
 
 ### Cart Page
 
 The Cart Page allows users to:
 
-    1.  Monitor and manage the products they’ve added
-    2.  Reserve items for future purchase
+1.  Monitor and manage the products they’ve added
+2.  Reserve items for future purchase
 
 ### Contact Page
 
 The Contact Page offers several ways for customers to reach out:
 
-    * Users can send a direct message through a form
-    * They can also call or email the shop for quicker support
+* Users can send a direct message through a form
+* They can also call or email the shop for quicker support
 
 ### Track Order Page
 
@@ -60,13 +60,13 @@ Each page developed this week directly reflects key parts of our Use Case Diagra
 
 ### Authentication Page
 
-    * Linked to the Customer entity in the ERD
-    * Handles account creation and login for users
+* Linked to the Customer entity in the ERD
+* Handles account creation and login for users
 
 ### Home Page
 
-    * Offers featured product viewing and searching functionality, supporting the Product entity
-    * Helps users explore the shop easily, tied to the product listing features in the system
+* Offers featured product viewing and searching functionality, supporting the Product entity
+* Helps users explore the shop easily, tied to the product listing features in the system
 
 ### About Page
 
@@ -74,13 +74,13 @@ Provides helpful background information that improves trust and transparency wit
 
 ### Products Page
 
-    * Reflects the Product, Category, Order Details, and Customer Reviews (via comments and stars) entities
-    * Adds interactivity with actions like adding to cart and writing reviews
-
+* Reflects the Product, Category, Order Details, and Customer Reviews (via comments and stars) entities
+* Adds interactivity with actions like adding to cart and writing reviews
+  
 ### Cart Page
 
-    * Directly associated with the Orders and Order Details entities
-    * Displays real-time product reservations, cart totals, and session management (logout)
+* Directly associated with the Orders and Order Details entities
+* Displays real-time product reservations, cart totals, and session management (logout)
 
 ### Contact Page
 
@@ -88,8 +88,8 @@ Enhances user experience and communication, an important support feature mention
 
 ### Track Order Page
 
-    * Linked to the Shipments and Orders entities
-    * Allows customers to check the status of their orders based on order number and email
+* Linked to the Shipments and Orders entities
+* Allows customers to check the status of their orders based on order number and email
 
 ## Summary
 
