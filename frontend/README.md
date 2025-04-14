@@ -24,9 +24,9 @@ This page introduces the shop, highlights our specializations, and presents what
 
 The Products Page lists all available products. Users can:
 
-    * Add products to their cart
-    * Buy now directly from the product list
-    * Leave reviews by giving star ratings and writing comments about the products
+    *Add products to their cart
+    *Buy now directly from the product list
+    *Leave reviews by giving star ratings and writing comments about the products
 
 ### Cart Page
 
